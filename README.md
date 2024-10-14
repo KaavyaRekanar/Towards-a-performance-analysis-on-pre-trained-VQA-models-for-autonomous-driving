@@ -51,7 +51,7 @@ The paper is also available in the official proceedings of **IMVIP 2023**, where
 ```
 Rekanar, Kaavya, Ciarán Eising, Ganesh Sistu, and Martin Hayes. 
 "Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving." 
-Proceedings of the Irish Machine Vision and Image Processing Conference (IMVIP 2023), pp. 123-130.
+Proceedings of the Irish Machine Vision and Image Processing Conference (IMVIP 2023), pp. 346-349.
 ```
 
 The full proceedings can be accessed [here](https://iprcs.github.io/pdf/IMVIP2023_Proceeding.pdf).
