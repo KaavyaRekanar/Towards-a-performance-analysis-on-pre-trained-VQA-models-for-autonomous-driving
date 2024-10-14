@@ -58,10 +58,7 @@ The full proceedings can be accessed [here](https://iprcs.github.io/pdf/IMVIP202
 
 ## Poster Presentation
 
-The poster presented at **IMVIP 2023** can be found below. It provides a visual summary of the research and key findings from the paper.
-
-
-[poster.pdf](https://github.com/user-attachments/files/17369625/poster.pdf)
+The poster presented at **IMVIP 2023** can be found in 'poster.pdf'. It provides a visual summary of the research and key findings from the paper.
 
 
 ## Future Work
